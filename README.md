@@ -4,28 +4,28 @@ This is a console-based Library Management System developed in Java. The project
 The system allows users to manage books in a library through a menu-driven interface.
 
 ## Features
--> Add new books
--> Remove existing books
--> Search books by title
--> Display all books
--> Update book details
--> Borrow books
--> Check book availability
--> Prevent borrowing of already issued books
--> Case-insensitive book search
+1. Add new books
+2. Remove existing books
+3. Search books by title
+4. Display all books
+5. Update book details
+6. Borrow books
+7. Check book availability
+8. Prevent borrowing of already issued books
+9. Case-insensitive book search
 
 ## Technologies Used
--> Java
--> Object-Oriented Programming (OOP)
--> ArrayList Collection Framework
--> Console-Based User Interface
--> Classes
--> Book Class
+1. Java
+2. Object-Oriented Programming (OOP)
+3. ArrayList Collection Framework
+4. Console-Based User Interface
+5. Classes
+6. Book Class
 
 ## Stores information about each book:
--> Title
--> Author
--> Borrow Status
+1. Title
+2. Author
+3. Borrow Status
 
 ## Sample Menu
 === Library Management System ===
@@ -39,16 +39,16 @@ The system allows users to manage books in a library through a menu-driven inter
    
 ## Learning Outcomes
 This project helped in understanding :
--> Java Classes and Objects
--> Constructors
--> ArrayList Operations
--> Loops and Conditional Statements
--> Menu-Driven Programming
--> Basic Data Management
--> Future Improvements
--> Return Book Feature
--> Book Issue Tracking
--> User Authentication
+1. Java Classes and Objects
+2. Constructors
+3. ArrayList Operations
+4. Loops and Conditional Statements
+5. Menu-Driven Programming
+6. Basic Data Management
+7. Future Improvements
+8. Return Book Feature
+9. Book Issue Tracking
+10. User Authentication
 
 ## Author
 Kashish Chandnani
